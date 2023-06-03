@@ -1,0 +1,15 @@
+
+	Compilar hilos en c++
+
+	Con <pthread.h>:
+
+	g++ pro1.cpp -o pro1 -lpthread
+
+
+	Con <thread>:
+	
+	g++ pro1.cpp -o pro1 -std=c++11 [o 14] -pthread
+	
+	con openmp
+	
+	g++ -std=c++17 -o .x .cpp -fopenmp

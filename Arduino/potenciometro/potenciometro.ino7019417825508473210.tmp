@@ -1,0 +1,36 @@
+int inputPot1 = A1; // Pin de lectura Potenciometro 1 - Lineal
+// Variables
+int valuePort1 = 0; // Almacena posicion Potenciometro 1
+int valuePort2 = 0; // Almacena posicion Potenciometro 2
+unsigned long tiempoac;
+unsigned long tiempoant=0;
+unsigned long deltiempo;
+int n=0;
+void setup(){
+  Serial.begin(9600); // Configura e inicia comunicacion serie a 9600 Baudios
+}
+void loop(){
+  
+  // Lectura analogica y conversión a digital
+  valuePort1 = analogRead(inputPot1);
+  
+  while(valuePort1==valuePort2){
+    valuePort2 = analogRead(inputPot1);
+    if(valuePort1!=valuePort2){
+      break;
+    } 
+  }
+  
+  valuePort2 = analogRead(inputPot1);
+  if(valuePort1!=valuePort2){
+    tiempoac=millis();
+    Serial.println("Hay cambio"); 
+    Serial.println(valuePort1*.29);
+    Serial.println(valuePort2*.29);
+    deltiempo=tiempoac-tiempoant;
+    tiempoant=tiempoac;
+    Serial.println("tiempo en segundos que tardo el cambio: ");
+    Serial.println(deltiempo/1000);
+    n=0;
+  }
+}

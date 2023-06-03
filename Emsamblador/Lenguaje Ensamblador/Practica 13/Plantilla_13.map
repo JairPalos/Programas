@@ -1,0 +1,59 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Fri Apr 29 22:37:17 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x0000c2
+.config_2007_PLANTILLA_13.O       code   0x002007    program   0x000002
+.config_2008_PLANTILLA_13.O       code   0x002008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x000064      
+                            0x002007    0x002008      
+            100 out of 8455 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    CICLO   0x000029    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+            CONFIGURACION   0x000005    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+               CONFI_TMR0   0x00000f    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+                   INICIO   0x000017    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+                  INTCONN   0x000010    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+             INTERRUPCION   0x00001f    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+                    LOOP1   0x00005a    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+                    LOOP2   0x00005c    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+                    LOOP3   0x00005e    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+              OPTION_REGG   0x000013    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+                  RETARDO   0x000058    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+                    TABLA   0x00003b    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+            CONFIGURACION   0x000005    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+               CONFI_TMR0   0x00000f    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+                  INTCONN   0x000010    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+              OPTION_REGG   0x000013    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+                   INICIO   0x000017    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+             INTERRUPCION   0x00001f    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+                    CICLO   0x000029    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+                    TABLA   0x00003b    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+                  RETARDO   0x000058    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+                    LOOP1   0x00005a    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+                    LOOP2   0x00005c    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+                    LOOP3   0x00005e    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 13\Plantilla_13.ASM
+
+

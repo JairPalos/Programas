@@ -1,0 +1,101 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Mon Apr 18 08:45:13 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x0001f6
+.config_2007_PLANTILLA_11.O       code   0x002007    program   0x000002
+.config_2008_PLANTILLA_11.O       code   0x002008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x0000fa      
+                            0x002007    0x002008      
+            253 out of 8455 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                 CHECAR_0   0x000056    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 CHECAR_1   0x000088    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 CHECAR_2   0x0000b6    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 CHECAR_3   0x0000e8    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                    CON_1   0x00001b    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                    CON_2   0x00001e    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                   INICIO   0x000017    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                  LIMPIAR   0x000052    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                LIMPIAR_1   0x000084    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                LIMPIAR_2   0x0000b2    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                LIMPIAR_3   0x0000e4    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                  PROCEDI   0x00002e    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                PROCEDI_1   0x00005c    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                PROCEDI_2   0x00008e    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                PROCEDI_3   0x0000bc    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                  RETARDO   0x0000ed    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                    SEC_0   0x000021    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                    SEC_1   0x000024    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                    SEC_2   0x000027    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                    SEC_3   0x00002a    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                    TABLA   0x000047    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                  TABLA_1   0x00003c    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 TABLA_21   0x00006a    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 TABLA_22   0x000077    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 TABLA_31   0x00009c    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 TABLA_32   0x0000a7    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 TABLA_41   0x0000ca    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 TABLA_42   0x0000d7    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                     ULTI   0x00002d    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                   ULTI_1   0x00005b    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                   ULTI_2   0x00008d    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                   ULTI_3   0x0000bb    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+              config_port   0x000002    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                     loop   0x0000f3    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+              config_port   0x000002    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                   INICIO   0x000017    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                    CON_1   0x00001b    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                    CON_2   0x00001e    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                    SEC_0   0x000021    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                    SEC_1   0x000024    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                    SEC_2   0x000027    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                    SEC_3   0x00002a    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                     ULTI   0x00002d    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                  PROCEDI   0x00002e    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                  TABLA_1   0x00003c    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                    TABLA   0x000047    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                  LIMPIAR   0x000052    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 CHECAR_0   0x000056    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                   ULTI_1   0x00005b    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                PROCEDI_1   0x00005c    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 TABLA_21   0x00006a    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 TABLA_22   0x000077    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                LIMPIAR_1   0x000084    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 CHECAR_1   0x000088    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                   ULTI_2   0x00008d    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                PROCEDI_2   0x00008e    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 TABLA_31   0x00009c    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 TABLA_32   0x0000a7    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                LIMPIAR_2   0x0000b2    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 CHECAR_2   0x0000b6    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                   ULTI_3   0x0000bb    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                PROCEDI_3   0x0000bc    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 TABLA_41   0x0000ca    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 TABLA_42   0x0000d7    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                LIMPIAR_3   0x0000e4    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                 CHECAR_3   0x0000e8    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                  RETARDO   0x0000ed    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+                     loop   0x0000f3    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 11\Plantilla_11.ASM
+
+

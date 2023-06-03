@@ -1,0 +1,6 @@
+Message[302] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA9\PLANTILLA_9.ASM 46 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA9\PLANTILLA_9.ASM 50 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA9\PLANTILLA_9.ASM 51 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA9\PLANTILLA_9.ASM 53 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA9\PLANTILLA_9.ASM 54 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA9\PLANTILLA_9.ASM 164 : Found label after column 1. (loop)

@@ -1,0 +1,51 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sun Mar 27 22:08:01 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x0000d2
+.config_2007_PLANTILLA_9.O       code   0x002007    program   0x000002
+.config_2008_PLANTILLA_9.O       code   0x002008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000068      
+                            0x002007    0x002008      
+            107 out of 8455 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000016    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica9\Plantilla_9.ASM
+                  LIMPIAR   0x000058    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica9\Plantilla_9.ASM
+                  PROCEDI   0x00001d    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica9\Plantilla_9.ASM
+                  RETARDO   0x00005b    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica9\Plantilla_9.ASM
+                    TABLA   0x000041    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica9\Plantilla_9.ASM
+                  TABLA_1   0x00002a    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica9\Plantilla_9.ASM
+                     ULTI   0x00001c    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica9\Plantilla_9.ASM
+              config_port   0x000002    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica9\Plantilla_9.ASM
+                     loop   0x000061    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica9\Plantilla_9.ASM
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+              config_port   0x000002    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica9\Plantilla_9.ASM
+                   INICIO   0x000016    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica9\Plantilla_9.ASM
+                     ULTI   0x00001c    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica9\Plantilla_9.ASM
+                  PROCEDI   0x00001d    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica9\Plantilla_9.ASM
+                  TABLA_1   0x00002a    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica9\Plantilla_9.ASM
+                    TABLA   0x000041    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica9\Plantilla_9.ASM
+                  LIMPIAR   0x000058    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica9\Plantilla_9.ASM
+                  RETARDO   0x00005b    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica9\Plantilla_9.ASM
+                     loop   0x000061    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica9\Plantilla_9.ASM
+
+

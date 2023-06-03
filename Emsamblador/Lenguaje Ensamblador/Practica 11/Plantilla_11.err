@@ -1,0 +1,8 @@
+Message[302] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA 11\PLANTILLA_11.ASM 46 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA 11\PLANTILLA_11.ASM 50 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA 11\PLANTILLA_11.ASM 51 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA 11\PLANTILLA_11.ASM 52 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA 11\PLANTILLA_11.ASM 54 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA 11\PLANTILLA_11.ASM 55 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA 11\PLANTILLA_11.ASM 349 : Found opcode in column 1. (ADDWF)
+Warning[207] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA 11\PLANTILLA_11.ASM 389 : Found label after column 1. (loop)

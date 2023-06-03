@@ -1,0 +1,67 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Fri May 13 09:41:55 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x0000c8
+.config_2007_PRACTICA_14.O       code   0x002007    program   0x000002
+.config_2008_PRACTICA_14.O       code   0x002008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000063      
+                            0x002007    0x002008      
+            102 out of 8455 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                CARGA_BUS   0x00004f    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                  COMANDO   0x000049    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                     DATO   0x00004c    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                      FIN   0x000064    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+          INICIALIZAR_LCD   0x00000d    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                       L1   0x00005d    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                       L2   0x00005c    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                       L3   0x00005b    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+             PORTS_CONFIG   0x000001    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                 REINICIO   0x000013    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                      RET   0x00005a    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                  RETARDO   0x000055    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                 RETARDO2   0x000057    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+               RETARDO_DP   0x000059    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                    TABLA   0x000029    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                   TABLA2   0x000039    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+               VISUALIZAR   0x000014    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+             PORTS_CONFIG   0x000001    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+          INICIALIZAR_LCD   0x00000d    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                 REINICIO   0x000013    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+               VISUALIZAR   0x000014    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                    TABLA   0x000029    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                   TABLA2   0x000039    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                  COMANDO   0x000049    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                     DATO   0x00004c    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                CARGA_BUS   0x00004f    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                  RETARDO   0x000055    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                 RETARDO2   0x000057    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+               RETARDO_DP   0x000059    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                      RET   0x00005a    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                       L3   0x00005b    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                       L2   0x00005c    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                       L1   0x00005d    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+                      FIN   0x000064    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 14\Practica_14.asm
+
+

@@ -1,0 +1,8 @@
+Message[302] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA 14\PRACTICA_14.ASM 43 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA 14\PRACTICA_14.ASM 44 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA 14\PRACTICA_14.ASM 48 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA 14\PRACTICA_14.ASM 49 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA 14\PRACTICA_14.ASM 152 : Using default destination of 1 (file).
+Message[305] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA 14\PRACTICA_14.ASM 154 : Using default destination of 1 (file).
+Message[305] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA 14\PRACTICA_14.ASM 156 : Using default destination of 1 (file).
+Warning[205] C:\USERS\JAIR HERNANDEZ\DESKTOP\SISTEMAS DIGITALES\PRACTICA 14\PRACTICA_14.ASM 160 : Found directive in column 1. (END)

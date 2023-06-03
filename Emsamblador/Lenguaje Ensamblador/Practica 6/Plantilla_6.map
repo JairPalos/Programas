@@ -1,0 +1,49 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Wed Mar 16 22:13:24 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000076
+.config_2007_PLANTILLA_6.O       code   0x002007    program   0x000002
+.config_2008_PLANTILLA_6.O       code   0x002008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00003a      
+                            0x002007    0x002008      
+            61 out of 8455 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   CONTAR   0x000011    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 6\Plantilla_6.ASM
+                      DOS   0x000030    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 6\Plantilla_6.ASM
+            PORTS_CONFING   0x000002    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 6\Plantilla_6.ASM
+                PRINCIPAL   0x00000b    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 6\Plantilla_6.ASM
+                  RETARDO   0x00002c    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 6\Plantilla_6.ASM
+                  TABLA_1   0x00001b    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 6\Plantilla_6.ASM
+                     TRES   0x00002e    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 6\Plantilla_6.ASM
+                      UNO   0x000032    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 6\Plantilla_6.ASM
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+            PORTS_CONFING   0x000002    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 6\Plantilla_6.ASM
+                PRINCIPAL   0x00000b    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 6\Plantilla_6.ASM
+                   CONTAR   0x000011    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 6\Plantilla_6.ASM
+                  TABLA_1   0x00001b    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 6\Plantilla_6.ASM
+                  RETARDO   0x00002c    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 6\Plantilla_6.ASM
+                     TRES   0x00002e    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 6\Plantilla_6.ASM
+                      DOS   0x000030    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 6\Plantilla_6.ASM
+                      UNO   0x000032    program     static C:\Users\Jair Hernandez\Desktop\Sistemas Digitales\Practica 6\Plantilla_6.ASM
+
+
